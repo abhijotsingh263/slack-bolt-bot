@@ -1,0 +1,13 @@
+{
+  "name": "slack-bolt-bot",
+  "version": "1.0.0",
+  "description": "A Slack Bolt bot using Socket Mode",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^3.17.0",
+    "dotenv": "^16.0.0"
+  }
+}
